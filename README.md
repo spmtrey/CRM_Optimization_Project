@@ -26,7 +26,7 @@ How to analyze data trends to make strategic decisions.
 Effective Collaberation with stakeholders to implement processess. 
 
 ## Supporting Files and Documentation 
-[ Process workflow diagram ] (https://trello.com/b/MbhKF9pp)
+[ [Process workflow diagram](https://trello.com/b/MbhKF9pp) ] 
 [ Performance Metrics Report ]
 [ Presentation Slides ] 
 
