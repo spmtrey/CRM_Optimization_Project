@@ -26,7 +26,7 @@ How to analyze data trends to make strategic decisions.
 Effective Collaberation with stakeholders to implement processess. 
 
 ## Supporting Files and Documentation 
-[ Process workflow diagram](https://github.com/users/spmtrey/projects/2)]
+[ Process workflow diagram](https://github.com/users/spmtrey/projects/2)
 [ Performance Metrics Report ]
 [ Presentation Slides ] 
 
