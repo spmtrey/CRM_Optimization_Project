@@ -10,17 +10,25 @@ Analyzed past sales data to identify trends and improve pipeline management.
 Collaberated with industry professionals, clients and cross-functional teams to implement automation for client follow ups. 
 
 ## Tools and Skills Used
-**Data Analysis** Excel, Google Sheets
-**CRM Software** kvCORE
-**Soft Skills** Process Improvement, Stakeholder Comminication, Risk Management 
+**Data Analysis:** 
+Excel, Google Sheets
+
+**CRM Software:** 
+kvCORE
+
+**Soft Skills:** 
+Process Improvement, Stakeholder Comminication, Risk Management 
 
 ## Key Acheivements 
-Reduced response time, leading to higher engagement. 
-Improved lead conversion rate by % through strategic follow-up.
+Reduced response time, leading to higher engagement.  
+
+Improved lead conversion rate by % through strategic follow-up.  
+
 Created a customized CRM workflow increasing efficency. 
 
 ## Lessons Learned 
-The importance of automating routine tasks to improve efficency. 
+The importance of automating routine tasks to improve efficency.  
+
 How to analyze data trends to make strategic decisions.
 
 ## Supporting Files and Documentation 
@@ -29,5 +37,6 @@ How to analyze data trends to make strategic decisions.
 [ Presentation Slides ] 
 
 ## Next Steps
-Explore additonal automations using CRM integrations. 
+Explore additonal automations using CRM integrations.  
+
 Implememnt a follow-up scoring system to prioritize leads based on engagement. 
